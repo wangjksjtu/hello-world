@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// a very clever algorithm!
 int main()
 {
 	int arr[] = {2, -5, 3, -4, 6, 7, -9, 8, 7, 4, -8, 5, -6};
